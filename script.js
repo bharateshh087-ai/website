@@ -1,12 +1,4 @@
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
-  text-align: center;
-  padding: 50px;
-}
-h1 {
-  color: #2c3e50;
-}
-p {
-  color: #555;
+
+function showMessage() {
+  alert("Your website is working successfully!");
 }
